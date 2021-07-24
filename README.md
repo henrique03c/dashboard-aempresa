@@ -10,7 +10,7 @@
 <br>
 <br>
 
-> Página inicial, sem clientes e produtos cadastrados!
+> Página inicial, sem clientes e produtos cadastrados.
 >
 >
 > <p align="center">
@@ -18,7 +18,7 @@
 > </p>
 > 
 > 
-> Página para adicionar clientes!
+> Página para adicionar clientes.
 > 
 > 
 > <p align="center">
@@ -26,7 +26,7 @@
 > </p>
 > 
 > 
-> Página para adicionar produtos!
+> Página para adicionar produtos.
 > 
 >
 > <p align="center">
@@ -34,7 +34,7 @@
 > </p>
 > 
 > 
-> Página inicial, com clientes e produtos cadastrados!
+> Página inicial, com clientes e produtos cadastrados.
 > 
 > 
 > <p align="center">
@@ -42,7 +42,7 @@
 > </p>
 > 
 > 
-> Página para visualizar dados de clientes e produtos!
+> Página para visualizar dados de clientes e produtos.
 > 
 > 
 > <p align="center">
@@ -50,7 +50,7 @@
 > </p>
 > 
 > 
-> Página para alterar os dados de clientes e produtos!
+> Página para alterar os dados de clientes e produtos.
 > 
 > 
 > <p align="center">
