@@ -4,7 +4,7 @@
 <br>
 
 
-> ## funcionalidades da aplicação de cadastro de clientes e produtos sem banco de dados.
+> ## app de cadastro de clientes e produtos sem banco de dados.
 
 
 <br>
